@@ -1,5 +1,11 @@
 # Ejercicio N° 8
 ## Desarrollo de Software
+
+### Integrantes
+- 56201 Schedan Paula Schedanpaula22@gmail.com
+- 60016 Zelarayan Sebastian sebazelarayan12@gmail.com
+- 56317 Anton Sobrecasas Lara antonsobrecasaslara@gmail.com
+
 ### Herencia y propiedades
 
 1. Realizar una bifurcación (fork) del [repositorio](https://github.com/ing-software-frt-utn/dsw2025ej8)
